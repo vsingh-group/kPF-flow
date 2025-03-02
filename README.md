@@ -39,7 +39,9 @@ python train_pf_generation.py --config configs/mnist/mnist_sn_spherical_kpf.yaml
 ```
 <img src="images/celeba_kpf_generations.png" alt="drawing" width="500"/>
 
-** Reference **
+## Reference 
+
+The paper bibliography entry is
 
 ```bibtex
 
