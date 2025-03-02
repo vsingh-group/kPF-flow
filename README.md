@@ -38,3 +38,22 @@ python train_pf_generation.py --config configs/cifar10/cifar10_sn_spherical_kpf.
 python train_pf_generation.py --config configs/mnist/mnist_sn_spherical_kpf.yaml
 ```
 <img src="images/celeba_kpf_generations.png" alt="drawing" width="500"/>
+
+** Reference **
+
+```bibtex
+
+@InProceedings{huangIcml22,
+  author = 	 {Zhichun Huang and Rudrasis Chakraborty and Vikas Singh},
+  title = 	 {Forward Operator Estimation in Generative Models with Kernel Transfer Operators},
+  booktitle = {Proc. of International Conference on Machine Learning (ICML)},
+  OPTpages = 	 {},
+  year = 	 {2022},
+  venue = 	 {ICML},
+  month = 	 {July},
+  OPTpublisher = {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
